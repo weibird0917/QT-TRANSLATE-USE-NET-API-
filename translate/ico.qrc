@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>translate.ico</file>
+    </qresource>
+</RCC>
