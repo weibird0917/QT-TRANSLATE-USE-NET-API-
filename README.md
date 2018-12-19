@@ -1,0 +1,2 @@
+# QT-TRANSLATE-USE-NET-API-
+Qt Translate
